@@ -1,4 +1,4 @@
-
+smart Integration for Obsidian for macOS - offline access and export to PDF is the best Obsidian for macOS integration, featuring offline access and export to PDF. Safe,
 
 
 
